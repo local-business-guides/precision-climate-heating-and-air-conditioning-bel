@@ -23,6 +23,9 @@
 - [Best HVAC Contractor Ma Belmont for Homeowners](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/best-hvac-contractor-ma-belmont/): Best HVAC Contractor Ma Belmont: get a clear plan for heating or cooling concerns in Belmont. Call Precision Climate Heating & Air Conditioning today.
 - [Top Rated HVAC Contractor Ma Belmont: What to Check](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/top-rated-hvac-contractor-ma-belmont/): Top Rated HVAC Contractor Ma Belmont: compare your options with practical questions for your home. Call Precision Climate in Belmont to discuss service.
 
+## Newsroom
+- [Precision Climate Shares Belmont HVAC Guide in Four Formats](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/news/2026-11-09-precision-climate-shares-belmont-hvac-guide-in/): Precision Climate Heating & Air Conditioning has released a Belmont HVAC guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-09)
+
 ## Pages
 - [HVAC Contractor in Belmont, Massachusetts](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/): Get a clear point of contact for heating and cooling needs in Belmont, Massachusetts. Call +1857-264-5179.
 - [About and Contact Precision Climate](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/about/): About Precision Climate Heating & Air Conditioning, Belmont.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/precision-climate-heating-and-air-conditioning-bel/news/rss.xml)
 - [Main resource site](https://precision-climate-belmont.localbusinesses1.chatgpt.site)
